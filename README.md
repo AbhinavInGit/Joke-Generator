@@ -20,7 +20,5 @@ A simple joke generator that fetches random jokes from an API. It provides diffe
 ![joke generator](https://github.com/user-attachments/assets/d685398f-5177-4121-8ec6-d00e0535e7e2)
 
 
-## Links
-- [LinkedIn](https://www.linkedin.com/in/abhinav885/)
-- [GitHub](https://github.com/AbhinavInGit)
+
 
